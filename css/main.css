@@ -1,0 +1,43 @@
+body {
+  background-color: gray;
+  font-family:sans-serif;
+
+}
+
+hr{
+  border: 2px solid black;
+}
+
+div {
+  background-image: url(../assets/img/logo_lab.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  border: 1px solid black;
+  float: right;
+  height: 200px;
+  margin: 4% 7%;
+  width: 18%;
+  }
+
+  .card-1:hover {
+    background-image: url("../assets/img/cabin.png");
+  }
+
+  .card-2:hover {
+    background-image: url("../assets/img/cake.png");
+  }
+
+  .card-3:hover {
+    background-image: url("../assets/img/circus.png");
+  }
+
+  .card-4:hover {
+    background-image: url("../assets/img/game.png");
+  }
+
+  .card-comodin:hover {
+    background-image: url("../assets/img/game.png");
+  }
