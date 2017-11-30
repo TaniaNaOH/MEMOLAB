@@ -14,13 +14,23 @@ div {
   background-size: cover;
 }
 
-.card {
-  border: 1px solid black;
-  float: right;
-  height: 200px;
-  margin: 4% 7%;
-  width: 18%;
-  }
+.efects {
+  transform-style: preserve-3d;
+  transition: 2s;
+}
+
+.rotation-efect {
+  transform: rotateY(180deg);
+}
+
+
+  .card {
+    border: 1px solid black;
+    float: right;
+    height: 200px;
+    margin: 4% 7%;
+    width: 18%;
+    }
 
   .card-1:hover {
     background-image: url("../assets/img/cabin.png");
