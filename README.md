@@ -1,4 +1,4 @@
-## MEMOLAB...
+## MEMOLAB
 
 #### ALUMNA:
 
