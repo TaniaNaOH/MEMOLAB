@@ -1,4 +1,4 @@
-## PROYECTO: MEMOLAB
+# PROYECTO: MEMOLAB
 
 ### Objetivo del proyecto:
 Aplicar los conocimientos adquiridos hasta el segundo Sprint de LABORATORIA MEXICO.
